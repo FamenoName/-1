@@ -1,0 +1,16 @@
+D:\21P\сергеева\ААААААААААА\propgramaproekt\bin\Debug\net5.0\propgramaproekt.exe
+D:\21P\сергеева\ААААААААААА\propgramaproekt\bin\Debug\net5.0\propgramaproekt.deps.json
+D:\21P\сергеева\ААААААААААА\propgramaproekt\bin\Debug\net5.0\propgramaproekt.runtimeconfig.json
+D:\21P\сергеева\ААААААААААА\propgramaproekt\bin\Debug\net5.0\propgramaproekt.runtimeconfig.dev.json
+D:\21P\сергеева\ААААААААААА\propgramaproekt\bin\Debug\net5.0\propgramaproekt.dll
+D:\21P\сергеева\ААААААААААА\propgramaproekt\bin\Debug\net5.0\ref\propgramaproekt.dll
+D:\21P\сергеева\ААААААААААА\propgramaproekt\bin\Debug\net5.0\propgramaproekt.pdb
+D:\21P\сергеева\ААААААААААА\propgramaproekt\obj\Debug\net5.0\propgramaproekt.csproj.AssemblyReference.cache
+D:\21P\сергеева\ААААААААААА\propgramaproekt\obj\Debug\net5.0\propgramaproekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\21P\сергеева\ААААААААААА\propgramaproekt\obj\Debug\net5.0\propgramaproekt.AssemblyInfoInputs.cache
+D:\21P\сергеева\ААААААААААА\propgramaproekt\obj\Debug\net5.0\propgramaproekt.AssemblyInfo.cs
+D:\21P\сергеева\ААААААААААА\propgramaproekt\obj\Debug\net5.0\propgramaproekt.csproj.CoreCompileInputs.cache
+D:\21P\сергеева\ААААААААААА\propgramaproekt\obj\Debug\net5.0\propgramaproekt.dll
+D:\21P\сергеева\ААААААААААА\propgramaproekt\obj\Debug\net5.0\ref\propgramaproekt.dll
+D:\21P\сергеева\ААААААААААА\propgramaproekt\obj\Debug\net5.0\propgramaproekt.pdb
+D:\21P\сергеева\ААААААААААА\propgramaproekt\obj\Debug\net5.0\propgramaproekt.genruntimeconfig.cache
